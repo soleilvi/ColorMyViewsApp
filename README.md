@@ -12,7 +12,7 @@ This app demonstrates the following views and techniques:
 
 ## Screenshots
 
-![Screenshot1](screenshots/ColorMyViewsScreenshots.png)
+![Screenshot1](https://raw.githubusercontent.com/udacity/andfun-kotlin-color-my-views/master/screenshots/ColorMyViewsScreenshots.png)
 
 ## How to use this repo while taking the course
 
